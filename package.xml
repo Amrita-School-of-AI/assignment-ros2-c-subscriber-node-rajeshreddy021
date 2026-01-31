@@ -5,7 +5,10 @@
   <version>0.0.0</version>
   <description>ROS 2 C++ Subscriber Node</description>
 
-  <maintainer email="your@email.com">your-name</maintainer>
+  <maintainer email="rajeshkumarreddykasireddy5@gmail.com">
+    kasireddy-rajesh-kumar
+  </maintainer>
+
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
